@@ -1,4 +1,5 @@
-﻿using ElevenNote.Model;
+﻿using ElevenNote.Data;
+using ElevenNote.Model;
 using ElevenNote.Service;
 using Microsoft.AspNet.Identity;
 using System;
@@ -38,6 +39,16 @@ namespace ElevenNote.WebAPI.Controllers
                 return InternalServerError();
             return Ok();
         }
+
+        public IHttpActionResult Get(int id)
+        {
+            NoteService noteService = CreateNoteService();
+            var note = noteService.GetNoteById(id);
+            return Ok(note);
+        }
+
+       
+        
 
     }
 
