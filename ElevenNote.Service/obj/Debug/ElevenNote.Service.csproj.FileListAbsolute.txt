@@ -1,0 +1,16 @@
+C:\Users\bjrei\Desktop\ElevenFiftyProjects\DotNetProj\ElevenNote\ElevenNote.Service\bin\Debug\ElevenNote.Service.dll.config
+C:\Users\bjrei\Desktop\ElevenFiftyProjects\DotNetProj\ElevenNote\ElevenNote.Service\bin\Debug\ElevenNote.Service.dll
+C:\Users\bjrei\Desktop\ElevenFiftyProjects\DotNetProj\ElevenNote\ElevenNote.Service\bin\Debug\ElevenNote.Service.pdb
+C:\Users\bjrei\Desktop\ElevenFiftyProjects\DotNetProj\ElevenNote\ElevenNote.Service\bin\Debug\EntityFramework.dll
+C:\Users\bjrei\Desktop\ElevenFiftyProjects\DotNetProj\ElevenNote\ElevenNote.Service\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\bjrei\Desktop\ElevenFiftyProjects\DotNetProj\ElevenNote\ElevenNote.Service\bin\Debug\Microsoft.AspNet.Identity.Core.dll
+C:\Users\bjrei\Desktop\ElevenFiftyProjects\DotNetProj\ElevenNote\ElevenNote.Service\bin\Debug\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\Users\bjrei\Desktop\ElevenFiftyProjects\DotNetProj\ElevenNote\ElevenNote.Service\bin\Debug\EntityFramework.xml
+C:\Users\bjrei\Desktop\ElevenFiftyProjects\DotNetProj\ElevenNote\ElevenNote.Service\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\bjrei\Desktop\ElevenFiftyProjects\DotNetProj\ElevenNote\ElevenNote.Service\bin\Debug\Microsoft.AspNet.Identity.Core.xml
+C:\Users\bjrei\Desktop\ElevenFiftyProjects\DotNetProj\ElevenNote\ElevenNote.Service\bin\Debug\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\Users\bjrei\Desktop\ElevenFiftyProjects\DotNetProj\ElevenNote\ElevenNote.Service\obj\Debug\ElevenNote.Service.csproj.AssemblyReference.cache
+C:\Users\bjrei\Desktop\ElevenFiftyProjects\DotNetProj\ElevenNote\ElevenNote.Service\obj\Debug\ElevenNote.Service.csproj.CoreCompileInputs.cache
+C:\Users\bjrei\Desktop\ElevenFiftyProjects\DotNetProj\ElevenNote\ElevenNote.Service\obj\Debug\ElevenNote.Service.csproj.CopyComplete
+C:\Users\bjrei\Desktop\ElevenFiftyProjects\DotNetProj\ElevenNote\ElevenNote.Service\obj\Debug\ElevenNote.Service.dll
+C:\Users\bjrei\Desktop\ElevenFiftyProjects\DotNetProj\ElevenNote\ElevenNote.Service\obj\Debug\ElevenNote.Service.pdb
